@@ -48,4 +48,30 @@ Os recursos do Einstein para B2C Commerce estão diretamente incorporados no B2C
 
 ## Salesforce Order Management
 
-O **Salesforce Order Management** reúne as pessoas, os sistemas e os processos de cada etapa do ciclo de vida do pedido e os reúne em um único sistema centralizado.
+O **Salesforce Order Management** reúne as pessoas, os sistemas e os processos de cada etapa do ciclo de vida do pedido e os reúne em um único sistema centralizado. Leia mais em: [Salesforce Order Management](./Salesforce%20Order%20Management/OrderManagement.md)
+
+## B2C
+
+O B2C Commerce permite que os varejistas criem e coordenem as experiências e transações online dos compradores em canais e dispositivos digitais. Essas experiências geralmente ocorrem na web ou em dispositivos móveis.
+Existem algumas categorias do comércio B2C, sendo elas:
+
+### B2C Commerce Storefront (Vitrine)
+
+A vitrine do B2C Commerce é essencialmente um **site de e-commerce**. Os recursos incluem a _Storefront Reference Architecture (SFRA)_, uma referência robusta que ajuda as marcas a criar sites de forma rápida e fácil.
+
+### Merchandising e Marketing
+
+Os recursos de merchandising e marketing no comércio B2C aproveitam o poder e os insights da IA, oferecendo aos varejistas oportunidades ilimitadas de engajamento personalizado com seus clientes. Esses recursos ajudam as marcas a impulsionar o crescimento do e-commerce com recursos que potencializam:
+
+- Gerenciamento de produtos, preços e catálogos, para que profissionais de marketing e comerciantes possam sincronizar produtos e preços entre categorias, catálogos, moedas e sites
+- Gestão de merchandising e promoção, para lançar campanhas e promoções rapidamente
+- Pesquisa no site e navegação guiada que ajudam os compradores on-line a encontrar o produto perfeito
+- Personalização mais rápida com tecnologia de IA que usa aprendizado de máquina para fornecer ofertas personalizadas e recomendações de produtos
+
+### APIs de comércio B2C
+
+As APIs de comércio B2C levam as marcas além do website para usar recursos digitais em redes sociais, dispositivos móveis e até mesmo em canais físicos. Entre elas, estão:
+
+- APIs para conexão com aplicativos de terceiros
+- Extensões de mídia social, para estender o comércio aos canais sociais e comunidades online, como Instagram e Facebook
+- Corredor infinito na loja e "clientela" para ajudar os compradores a encontrar o item que precisam, mesmo que não esteja disponível naquele local específico. (Este é um aplicativo de referência que utiliza dados de clientes, produtos e estoque do B2C Commerce para permitir que os vendedores da loja acessem essas informações e concluam as vendas na loja.)
